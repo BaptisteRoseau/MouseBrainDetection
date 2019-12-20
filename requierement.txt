@@ -1,0 +1,7 @@
+numpy
+jupyterlab
+matplotlib
+tensorflow==2.0
+nilearn
+NIPY
+scikit-image
