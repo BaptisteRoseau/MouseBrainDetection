@@ -7,5 +7,7 @@ Author: Baptiste Roseau
 To launch a python3 virtual environment and install requiered packages, you can type:
 
 `python3 -m venv python-venv`
-`source python-venv/bin/actiate`
+
+`source python-venv/bin/activate`
+
 `pip install -r requirement.txt`
